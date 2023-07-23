@@ -1,0 +1,11 @@
+{
+    "name": "Warga",
+    "alias": "warga",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Warga\\Providers\\WargaServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Iuran",
+    "alias": "iuran",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Iuran\\Providers\\IuranServiceProvider"
+    ],
+    "files": []
+}

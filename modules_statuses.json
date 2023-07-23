@@ -1,0 +1,9 @@
+{
+    "Master": true,
+    "Auth": true,
+    "Users": true,
+    "Login": true,
+    "Warga": true,
+    "Iuran": true,
+    "Laporan": true
+}
